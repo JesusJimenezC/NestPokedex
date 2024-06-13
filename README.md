@@ -30,8 +30,8 @@ $ http://localhost:3000/api/seed
 
 ## 3. Environment Variables
 
-[!IMPORTANT]
-Clone file __.env.template__ to __.env__ and fill the variables
+> [!IMPORTANT]
+> Clone file __.env.template__ to __.env__ and fill the variables
 
 ## 4. Running the app
 
